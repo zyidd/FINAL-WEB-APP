@@ -1,0 +1,6 @@
+{
+  "name": "AFFILIATOR AI - PRO STUDIO",
+  "description": "Mobile-first AI storyboard, prompt generator, and voiceover studio for TikTok and Instagram Reels affiliate creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
